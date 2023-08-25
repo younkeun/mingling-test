@@ -793,7 +793,7 @@ svg {
 --------------------------------------------------------------*/
 #hero-index {
   width: 100%;
-  height: 60vh;
+  height: 40vh;
   background: #121313; /*hero bg color*/
   background: url("../img/index/hero-index.png") center center;
   background-size: cover;
@@ -804,7 +804,7 @@ svg {
 
 #hero-index:before {
   content: "";
-  background: rgba(56, 64, 70, 0.7);
+  background: rgba(56, 64, 70, 0.9);
   position: absolute;
   bottom: 0;
   top: 0;
